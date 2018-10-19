@@ -26,3 +26,5 @@ For Instance:
 Input: "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
+
+The aproach on the programm will be from right to left. We will analyze digits and next to it from right to left.
